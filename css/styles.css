@@ -1,0 +1,160 @@
+:root {
+    /* Colors */
+    --PRIMARY: #8c38FF;
+    --LIGHT: #EEEEEE;
+    --DARK: #05050d;
+    --BORDER: #34343d;
+    --BORDER-HOVER: #6e707e;
+    --BORDER-FOCUS: #7749b8;
+    --TEXT-COLOR: #EEEEEE;
+    --INPUT-BG: #141224;
+    --DIVIDER: #404365;
+    --HEADER-BG: #12111e;
+    --MAIN-BG: #080716;
+
+    /* Sizes */
+    --HANDLE-SIZE: 3rem;
+    --IMG-GAP: 0.25rem;
+
+    /* Transitions */
+    --TRAN-02: all 0.2s ease;
+    --TRAN-03: all 0.3s ease;
+    --TRAN-04: all 0.4s ease;
+    --TRAN-05: all 0.5s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Scroll bar */
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #5d5d5f;
+    }
+
+    ::-webkit-scrollbar-thumb {
+    background-color: #372743;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+    background-color: #493559;
+}
+
+body {
+    background-color: var(--DARK);
+}
+
+/* SIDE BAR */
+
+.show {
+    position: fixed;
+    left: 100;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999999;
+    margin-top: -70px;
+
+}
+
+.sidebar {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    height: 100%;
+    width: 283px;
+    padding: 10px 14px;
+    background: var(--DARK);
+    border-right: 1px solid var(--BORDER-FOCUS);
+    font-weight: 500;
+    z-index: 9999999999;
+    transition: var(--TRAN-03);
+}
+
+.sidebar li {
+    height: 50px;
+    margin-top: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebar li .icon {
+    margin-left: 11px;
+    margin-right: 8px;
+    font-size: 25px;
+}
+
+.sidebar li .icon,
+.sidebar li .text-sidebar {
+    color: var(--LIGHT);
+    transition: var(--TRAN-02);
+}
+
+.sidebar li a{
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+    border-radius: 6px;
+    transition: var(--TRAN-04);
+    display: flex;
+    align-items: center;
+}
+
+.sidebar li a:hover .icon,
+.sidebar li a:hover .text-sidebar {
+    color: var(--PRIMARY);  
+}
+
+.menu-links {
+    margin-top: -10px;
+}
+
+.toggle {
+    position: absolute;
+    top: 50%;
+    right: -25px;
+    transform: translateY(-50%);
+    height: 25px;
+    width: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+@media (max-width: 768px) {
+    .photo {
+      width: calc(33.33% - 9px);
+    }
+    .searchForm, .divider {
+        display: none;
+    }
+    .sidebar.close {
+        left: -290px;
+    }
+    .topics-nav {
+        left: 0;
+        width: 100%;   
+    }
+    main {
+        margin-left: 0;
+    }
+    .sidebar{
+        width: 100%;
+        height: 100vh;
+    }
+    .sidebar ul {
+        margin-top: 15px;
+    }
+    .sidebar ul li a {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+  }

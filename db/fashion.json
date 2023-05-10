@@ -1,0 +1,204 @@
+{
+    "fashion" : [
+        {
+          "id": 1,
+          "url": "./img/galery/fashion/1.jpg"      
+        },
+        {
+          "id": 2,
+          "url": "./img/galery/fashion/2.jpg"
+        },
+        {
+          "id": 3,
+          "url": "./img/galery/fashion/3.jpg"
+        },
+        {
+          "id": 4,
+          "url": "./img/galery/fashion/4.jpg"
+        },
+        {
+          "id": 5,
+          "url": "./img/galery/fashion/5.jpg"
+        },
+        {
+          "id": 6,
+          "url": "./img/galery/fashion/6.jpg"
+        },
+        {
+          "id": 7,
+          "url": "./img/galery/fashion/7.jpg"
+        },
+        {
+          "id": 8,
+          "url": "./img/galery/fashion/8.jpg"
+        },
+        {
+          "id": 9,
+          "url": "./img/galery/fashion/9.jpg"
+        },
+        {
+          "id": 10,
+          "url": "./img/galery/fashion/10.jpg"
+        },
+        {
+          "id": 11,
+          "url": "./img/galery/fashion/11.jpg"
+        },
+        {
+          "id": 12,
+          "url": "./img/galery/fashion/12.jpg"
+        },
+        {
+          "id": 13,
+          "url": "./img/galery/fashion/13.jpg"
+        },
+        {
+          "id": 14,
+          "url": "./img/galery/fashion/14.jpg"
+        },
+        {
+          "id": 15,
+          "url": "./img/galery/fashion/15.jpg"
+        },
+        {
+          "id": 16,
+          "url": "./img/galery/fashion/16.jpg"
+        },
+        {
+          "id": 17,
+          "url": "./img/galery/fashion/17.jpg"
+        },
+        {
+          "id": 18,
+          "url": "./img/galery/fashion/18.jpg"
+        },
+        {
+          "id": 19,
+          "url": "./img/galery/fashion/19.jpg"
+        },
+        {
+          "id": 20,
+          "url": "./img/galery/fashion/20.jpg"
+        },
+        {
+          "id": 21,
+          "url": "./img/galery/fashion/21.jpg"
+        },
+        {
+          "id": 22,
+          "url": "./img/galery/fashion/22.jpg"
+        },
+        {
+          "id": 23,
+          "url": "./img/galery/fashion/23.jpg"
+        },
+        {
+          "id": 24,
+          "url": "./img/galery/fashion/24.jpg"
+        },
+        { 
+          "id": 25,
+          "url": "./img/galery/fashion/25.jpg"
+        },
+        {
+          "id": 26,
+          "url": "./img/galery/fashion/26.jpg"
+        },
+        {
+          "id": 27,
+          "url": "./img/galery/fashion/27.jpg"
+        },
+        {
+          "id": 28,
+          "url": "./img/galery/fashion/28.jpg"
+        },
+        {
+          "id": 29,
+          "url": "./img/galery/fashion/29.jpg"
+        },
+        {
+          "id": 30,
+          "url": "./img/galery/fashion/30.jpg"
+        },
+        {
+          "id": 31,
+          "url": "./img/galery/fashion/31.jpg"
+        },
+        {
+          "id": 32,
+          "url": "./img/galery/fashion/32.jpg"
+        },
+        {
+          "id": 33,
+          "url": "./img/galery/fashion/33.jpg"
+        },
+        {
+          "id": 34,
+          "url": "./img/galery/fashion/34.jpg"
+        },
+        {
+          "id": 35,
+          "url": "./img/galery/fashion/35.jpg"
+        },
+        {
+          "id": 36,
+          "url": "./img/galery/fashion/36.jpg"
+        },
+        {
+          "id": 37,
+          "url": "./img/galery/fashion/37.jpg"
+        },
+        {
+          "id": 38,
+          "url": "./img/galery/fashion/38.jpg"
+        },
+        {
+          "id": 39,
+          "url": "./img/galery/fashion/39.jpg"
+        },
+        {
+          "id": 40,
+          "url": "./img/galery/fashion/40.jpg"
+        },
+        {
+          "id": 41,
+          "url": "./img/galery/fashion/41.jpg"
+        },
+        {
+          "id": 42,
+          "url": "./img/galery/fashion/42.jpg"
+        },
+        {
+          "id": 43,
+          "url": "./img/galery/fashion/43.jpg"
+        },
+        {
+          "id": 44,
+          "url": "./img/galery/fashion/44.jpg"
+        },
+        {
+          "id": 45,
+          "url": "./img/galery/fashion/45.jpg"
+        },
+        {
+          "id": 46,
+          "url": "./img/galery/fashion/46.jpg"
+        },
+        {
+          "id": 47,
+          "url": "./img/galery/fashion/47.jpg"
+        },
+        {
+          "id": 48,
+          "url": "./img/galery/fashion/48.jpg"
+        },
+        {
+          "id": 49,
+          "url": "./img/galery/fashion/49.jpg"
+        },
+        {
+          "id": 50,
+          "url": "./img/galery/fashion/50.jpg"
+        }
+      ]
+}

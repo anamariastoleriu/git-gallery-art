@@ -1,0 +1,204 @@
+{
+    "anime" : [
+        {
+          "id": 1,
+          "url": "./img/galery/anime/1.jpg"      
+        },
+        {
+          "id": 2,
+          "url": "./img/galery/anime/2.jpg"
+        },
+        {
+          "id": 3,
+          "url": "./img/galery/anime/3.png"
+        },
+        {
+          "id": 4,
+          "url": "./img/galery/anime/4.jpg"
+        },
+        {
+          "id": 5,
+          "url": "./img/galery/anime/5.png"
+        },
+        {
+          "id": 6,
+          "url": "./img/galery/anime/6.png"
+        },
+        {
+          "id": 7,
+          "url": "./img/galery/anime/7.png"
+        },
+        {
+          "id": 8,
+          "url": "./img/galery/anime/8.png"
+        },
+        {
+          "id": 9,
+          "url": "./img/galery/anime/9.jpg"
+        },
+        {
+          "id": 10,
+          "url": "./img/galery/anime/10.png"
+        },
+        {
+          "id": 11,
+          "url": "./img/galery/anime/11.jpg"
+        },
+        {
+          "id": 12,
+          "url": "./img/galery/anime/12.jpg"
+        },
+        {
+          "id": 13,
+          "url": "./img/galery/anime/13.jpg"
+        },
+        {
+          "id": 14,
+          "url": "./img/galery/anime/14.jpg"
+        },
+        {
+          "id": 15,
+          "url": "./img/galery/anime/15.png"
+        },
+        {
+          "id": 16,
+          "url": "./img/galery/anime/16.jpg"
+        },
+        {
+          "id": 17,
+          "url": "./img/galery/anime/17.png"
+        },
+        {
+          "id": 18,
+          "url": "./img/galery/anime/18.png"
+        },
+        {
+          "id": 19,
+          "url": "./img/galery/anime/19.png"
+        },
+        {
+          "id": 20,
+          "url": "./img/galery/anime/20.png"
+        },
+        {
+          "id": 21,
+          "url": "./img/galery/anime/21.jpg"
+        },
+        {
+          "id": 22,
+          "url": "./img/galery/anime/22.png"
+        },
+        {
+          "id": 23,
+          "url": "./img/galery/anime/23.jpg"
+        },
+        {
+          "id": 24,
+          "url": "./img/galery/anime/24.jpg"
+        },
+        { 
+          "id": 25,
+          "url": "./img/galery/anime/25.jpg"
+        },
+        {
+          "id": 26,
+          "url": "./img/galery/anime/26.png"
+        },
+        {
+          "id": 27,
+          "url": "./img/galery/anime/27.jpg"
+        },
+        {
+          "id": 28,
+          "url": "./img/galery/anime/28.jpg"
+        },
+        {
+          "id": 29,
+          "url": "./img/galery/anime/29.jpg"
+        },
+        {
+          "id": 30,
+          "url": "./img/galery/anime/30.jpg"
+        },
+        {
+          "id": 31,
+          "url": "./img/galery/anime/31.jpg"
+        },
+        {
+          "id": 32,
+          "url": "./img/galery/anime/32.jpg"
+        },
+        {
+          "id": 33,
+          "url": "./img/galery/anime/33.png"
+        },
+        {
+          "id": 34,
+          "url": "./img/galery/anime/34.jpg"
+        },
+        {
+          "id": 35,
+          "url": "./img/galery/anime/35.png"
+        },
+        {
+          "id": 36,
+          "url": "./img/galery/anime/36.jpg"
+        },
+        {
+          "id": 37,
+          "url": "./img/galery/anime/37.png"
+        },
+        {
+          "id": 38,
+          "url": "./img/galery/anime/38.png"
+        },
+        {
+          "id": 39,
+          "url": "./img/galery/anime/39.png"
+        },
+        {
+          "id": 40,
+          "url": "./img/galery/anime/40.jpg"
+        },
+        {
+          "id": 41,
+          "url": "./img/galery/anime/41.png"
+        },
+        {
+          "id": 42,
+          "url": "./img/galery/anime/42.png"
+        },
+        {
+          "id": 43,
+          "url": "./img/galery/anime/43.png"
+        },
+        {
+          "id": 44,
+          "url": "./img/galery/anime/44.jpg"
+        },
+        {
+          "id": 45,
+          "url": "./img/galery/anime/45.png"
+        },
+        {
+          "id": 46,
+          "url": "./img/galery/anime/46.jpg"
+        },
+        {
+          "id": 47,
+          "url": "./img/galery/anime/47.jpg"
+        },
+        {
+          "id": 48,
+          "url": "./img/galery/anime/48.jpg"
+        },
+        {
+          "id": 49,
+          "url": "./img/galery/anime/49.jpg"
+        },
+        {
+          "id": 50,
+          "url": "./img/galery/anime/50.png"
+        }
+      ]
+}

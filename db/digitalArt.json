@@ -1,0 +1,200 @@
+{
+    "digitalArt" : [
+        {
+          "id": 1,
+          "url": "./img/galery/digitalArt/1.png"      
+        },
+        {
+          "id": 2,
+          "url": "./img/galery/digitalArt/2.jpg"
+        },
+        {
+          "id": 3,
+          "url": "./img/galery/digitalArt/3.jpg"
+        },
+        {
+          "id": 4,
+          "url": "./img/galery/digitalArt/4.png"
+        },
+        {
+          "id": 5,
+          "url": "./img/galery/digitalArt/5.jpg"
+        },
+        {
+          "id": 6,
+          "url": "./img/galery/digitalArt/6.jpg"
+        },
+        {
+          "id": 7,
+          "url": "./img/galery/digitalArt/7.png"
+        },
+        {
+          "id": 8,
+          "url": "./img/galery/digitalArt/8.jpg"
+        },
+        {
+          "id": 9,
+          "url": "./img/galery/digitalArt/9.png"
+        },
+        {
+          "id": 10,
+          "url": "./img/galery/digitalArt/10.jpg"
+        },
+        {
+          "id": 11,
+          "url": "./img/galery/digitalArt/11.jpg"
+        },
+        {
+          "id": 12,
+          "url": "./img/galery/digitalArt/12.jpg"
+        },
+        {
+          "id": 13,
+          "url": "./img/galery/digitalArt/13.jpg"
+        },
+        {
+          "id": 14,
+          "url": "./img/galery/digitalArt/14.png"
+        },
+        {
+          "id": 16,
+          "url": "./img/galery/digitalArt/16.jpg"
+        },
+        {
+          "id": 17,
+          "url": "./img/galery/digitalArt/17.png"
+        },
+        {
+          "id": 18,
+          "url": "./img/galery/digitalArt/18.jpg"
+        },
+        {
+          "id": 19,
+          "url": "./img/galery/digitalArt/19.jpg"
+        },
+        {
+          "id": 20,
+          "url": "./img/galery/digitalArt/20.jpg"
+        },
+        {
+          "id": 21,
+          "url": "./img/galery/digitalArt/21.png"
+        },
+        {
+          "id": 22,
+          "url": "./img/galery/digitalArt/22.jpg"
+        },
+        {
+          "id": 23,
+          "url": "./img/galery/digitalArt/23.jpg"
+        },
+        {
+          "id": 24,
+          "url": "./img/galery/digitalArt/24.jpg"
+        },
+        { 
+          "id": 25,
+          "url": "./img/galery/digitalArt/25.jpg"
+        },
+        {
+          "id": 26,
+          "url": "./img/galery/digitalArt/26.jpg"
+        },
+        {
+          "id": 27,
+          "url": "./img/galery/digitalArt/27.jpg"
+        },
+        {
+          "id": 28,
+          "url": "./img/galery/digitalArt/28.jpg"
+        },
+        {
+          "id": 29,
+          "url": "./img/galery/digitalArt/29.png"
+        },
+        {
+          "id": 30,
+          "url": "./img/galery/digitalArt/30.jpg"
+        },
+        {
+          "id": 31,
+          "url": "./img/galery/digitalArt/31.jpg"
+        },
+        {
+          "id": 32,
+          "url": "./img/galery/digitalArt/32.jpg"
+        },
+        {
+          "id": 33,
+          "url": "./img/galery/digitalArt/33.png"
+        },
+        {
+          "id": 34,
+          "url": "./img/galery/digitalArt/34.png"
+        },
+        {
+          "id": 35,
+          "url": "./img/galery/digitalArt/35.png"
+        },
+        {
+          "id": 36,
+          "url": "./img/galery/digitalArt/36.png"
+        },
+        {
+          "id": 37,
+          "url": "./img/galery/digitalArt/37.jpg"
+        },
+        {
+          "id": 38,
+          "url": "./img/galery/digitalArt/38.png"
+        },
+        {
+          "id": 39,
+          "url": "./img/galery/digitalArt/39.jpg"
+        },
+        {
+          "id": 40,
+          "url": "./img/galery/digitalArt/40.jpg"
+        },
+        {
+          "id": 41,
+          "url": "./img/galery/digitalArt/41.png"
+        },
+        {
+          "id": 42,
+          "url": "./img/galery/digitalArt/42.jpg"
+        },
+        {
+          "id": 43,
+          "url": "./img/galery/digitalArt/43.jpg"
+        },
+        {
+          "id": 44,
+          "url": "./img/galery/digitalArt/44.png"
+        },
+        {
+          "id": 45,
+          "url": "./img/galery/digitalArt/45.jpg"
+        },
+        {
+          "id": 46,
+          "url": "./img/galery/digitalArt/46.jpg"
+        },
+        {
+          "id": 47,
+          "url": "./img/galery/digitalArt/47.jpg"
+        },
+        {
+          "id": 48,
+          "url": "./img/galery/digitalArt/48.jpg"
+        },
+        {
+          "id": 49,
+          "url": "./img/galery/digitalArt/49.jpg"
+        },
+        {
+          "id": 50,
+          "url": "./img/galery/digitalArt/50.jpg"
+        }
+      ]
+}
